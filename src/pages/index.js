@@ -9,6 +9,7 @@ export default function Home() {
   return (
     <>
     <h1>Translator App using Next Js</h1>
+    <a href='translator'><button type="submit">go</button></a>
     </>
   )
 }
